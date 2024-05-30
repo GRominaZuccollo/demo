@@ -1,3 +1,13 @@
+PROYECTO 1
+-------------------------------------------
 Hola Mundo
 todo esto se va guardando
 y como se va guardando
+aparece el punto blanco
+sino guardo no aparece
+-------------------------------------------
+
+PUNTO 2
+-------------------------------------------
+Otra cosa
+-------------------------------------------
