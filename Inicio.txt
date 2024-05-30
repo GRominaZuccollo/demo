@@ -1,0 +1,13 @@
+Este archivo contiene informacion del Inicio de nuestro programa
+
+Menu Inicio
+1- Crear las Imagenes y Sectores
+2- Colocar botones que nos direccionen a distintas partes de la app
+3- Realizar formulario de inicio de sesion 
+4- Crear carteles de alerta si no llega a tener bien las credenciales
+
+
+PUNTO 3
+--------------------------------------------------------
+Agregando.
+--------------------------------------------------------
