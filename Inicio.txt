@@ -7,7 +7,5 @@ Menu Inicio
 4- Crear carteles de alerta si no llega a tener bien las credenciales
 
 
-PUNTO 3
---------------------------------------------------------
-Agregando.
---------------------------------------------------------
+Paso 1 
+Buscar imagenes (pendiente)
